@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SELVAGANESH R
+### Register Number: 212223230200
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
